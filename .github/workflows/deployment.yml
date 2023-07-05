@@ -2,7 +2,6 @@ name: deployment
 
 on: [pull_request]
 
-
 jobs:
   github-pages:
     runs-on: ubuntu-latest
