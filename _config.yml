@@ -10,11 +10,11 @@ description: > # this means to ignore newlines until "email:"
 
 email: a-mail@mail.mail
 #blog logo
-logo: "/assets/images/favicon.png"
+logo: "/assets/images/background.png"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/background.jpg"
+cover: "/assets/images/bike.png"
 
 name: 'Hengcheng Zhang'
 author: 'Hengcheng Zhang'
