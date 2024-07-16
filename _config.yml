@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Hengcheng Zhang"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   My own website
 
 email: a-mail@mail.mail
 #blog logo
@@ -18,7 +18,7 @@ cover: "/assets/images/bike.jpg"
 
 name: 'Hengcheng Zhang'
 author: 'Hengcheng Zhang'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/me.jpg"
 
 paginate:	5
 
