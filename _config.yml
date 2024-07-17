@@ -35,11 +35,12 @@ twitter_handle: '@dirkfabisch'
 # social icons and sharing options
 social:
   - icon:	linkedin
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+    url:	https://www.linkedin.com/in/hengcheng/
+    desc: Check me out on LinkedIn
+
+  - icon:	github
+    url:	https://github.com/HengchengZhang
+    desc:	Follow me on github
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???
@@ -47,13 +48,6 @@ social:
 #    share_url: https://www.facebook.com/sharer.php
 #    share_title: ?t=
 #    share_link: "&amp;u="
-
-  - icon:	github
-    url:	https://github.com/HengchengZhang
-    desc:	Follow me on github
-    share_url:
-    share_title:
-    share_link:
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
