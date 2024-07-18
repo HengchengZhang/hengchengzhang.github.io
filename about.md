@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Me
+permalink: /me/
 ---
 
 A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
