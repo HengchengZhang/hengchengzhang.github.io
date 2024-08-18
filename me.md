@@ -13,4 +13,4 @@ After being one of the lead developers at QuantEcon, I left the organisation wit
 
 Currently I'm based in Canberra and looking for new opportunities in local IT industry. My skill sets focus on data engineering and machine learning, but beginner's software development tasks also won't be challenging to me. You can find my CV [here](/assets/cv.pdf).
 
-Apart from the serious talks, I'm creative and adventurous in life. My two favourate but dangerous hobbies are riding motorbikes and skiing. I also love exploring this land on 4 wheels, the longest single trip was a 2600km trip from Melbourne to Canberra via Adeleide and Wagga Wagga.
+Apart from the serious talks, I'm creative and adventurous in life. My two favourate but dangerous hobbies are riding motorbikes and skiing (love my [CBR500R](https://motorcycles.honda.com.au/models/onroad/supersport/cbr500r)). I also love exploring this land on 4 wheels, the longest single trip was a 2600km trip from Melbourne to Canberra via Adeleide and Wagga Wagga.

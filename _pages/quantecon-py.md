@@ -4,7 +4,7 @@ title:  Paper of Quantecon.py
 permalink: /quantecon-py/
 date: 2024-01-15
 image: /assets/article_images/quantecon/qe.jpg
-description: Published at Journal of Open Source Software
+description: Paper published at Journal of Open Source Software.
 type: paper
 ---
 
