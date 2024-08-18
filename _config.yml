@@ -42,6 +42,10 @@ social:
     url:	https://github.com/HengchengZhang
     desc:	Follow me on github
 
+  - icon: phone
+    url: /assets/cv.pdf
+    desc: Contact me via
+
 #  - icon:	facebook
 #    url:	https://facebook.com/???
 #    desc: Connect with me facebook

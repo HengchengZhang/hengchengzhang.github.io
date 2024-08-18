@@ -2,6 +2,7 @@
 layout: page
 title: Me
 permalink: /me/
+tags: me
 ---
 
 A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
