@@ -42,23 +42,46 @@ layout: default
   </article>
 
   <!-- Project part -->
-  <!-- {% if site.tags.project %} -->
-    <h5 class="index-headline"><span>Projects</span></h5>
-    {% assign projects = site.pages | where: 'type', 'project' %}
-    {% for project in projects %}
-    <!-- {% for page in site.tags.project %} -->
-      <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-        <header class="post-header">
-          <h2 class="post-title" itemprop="name"><a href="{{ project.url | prepend: site.baseurl }}" itemprop="url">{{ project.title }}</a></h2>
-        </header>
-        <section class="post-excerpt" itemprop="description">
-          <p>{{ project.description }}</p>
-        </section>
-      </article>
-    <!-- {% endfor %} -->
-    {% endfor %}
-  <!-- {% endif %} -->
+  <h5 class="index-headline"><span>Projects</span></h5>
+  {% assign projects = site.pages | where: 'type', 'project' %}
+  {% for project in projects %}
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name"><a href="{{ project.permalink | prepend: site.baseurl }}" itemprop="url">{{ project.title }}</a></h2>
+      </header>
+      <section class="post-excerpt" itemprop="description">
+        <p>{{ project.description }}</p>
+      </section>
+    </article>
+  {% endfor %}
 
+  <!-- Research Project part -->
+  <h5 class="index-headline"><span>Research Projects</span></h5>
+  {% assign projects = site.pages | where: 'type', 'research project' %}
+  {% for project in projects %}
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name"><a href="{{ project.permalink | prepend: site.baseurl }}" itemprop="url">{{ project.title }}</a></h2>
+      </header>
+      <section class="post-excerpt" itemprop="description">
+        <p>{{ project.description }}</p>
+      </section>
+    </article>
+  {% endfor %}
+
+  <!-- Paper part -->
+  <h5 class="index-headline"><span>Paper</span></h5>
+  {% assign projects = site.pages | where: 'type', 'paper' %}
+  {% for project in projects %}
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name"><a href="{{ project.permalink | prepend: site.baseurl }}" itemprop="url">{{ project.title }}</a></h2>
+      </header>
+      <section class="post-excerpt" itemprop="description">
+        <p>{{ project.description }}</p>
+      </section>
+    </article>
+  {% endfor %}
 
     <!-- <div class="cf frame">
       {% for post in paginator.posts %}
