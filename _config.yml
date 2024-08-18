@@ -3,6 +3,9 @@ gems:
   - jemoji
   - jekyll-paginate
 
+collections:
+  projects:
+
 # Site settings
 title: "Hengcheng Zhang"
 description: > # this means to ignore newlines until "email:"
@@ -19,6 +22,8 @@ cover: "/assets/images/bike.jpg"
 name: 'Hengcheng Zhang'
 author: 'Hengcheng Zhang'
 author_image: "/assets/images/me.jpg"
+
+permalink:        pretty
 
 # paginate:	5
 

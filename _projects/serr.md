@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: project
 title:  Sharing Economy Reporting Regime
-tags: project
+# tags: project
 permalink: serr
 date:   2024-08-10
 image: /assets/article_images/serr/sharing-economy.jpeg
