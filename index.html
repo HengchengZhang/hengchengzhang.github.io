@@ -44,7 +44,8 @@ layout: default
   <!-- Project part -->
   <!-- {% if site.tags.project %} -->
     <h5 class="index-headline"><span>Projects</span></h5>
-    {% for project in site.projects %}
+    {% assign projects = site.pages | where: 'type', 'project' %}
+    {% for project in projects %}
     <!-- {% for page in site.tags.project %} -->
       <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
         <header class="post-header">

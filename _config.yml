@@ -4,7 +4,8 @@ gems:
   - jekyll-paginate
 
 collections:
-  projects:
+  pages:
+    output: true
 
 # Site settings
 title: "Hengcheng Zhang"
