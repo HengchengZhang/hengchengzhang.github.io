@@ -20,7 +20,7 @@ name: 'Hengcheng Zhang'
 author: 'Hengcheng Zhang'
 author_image: "/assets/images/me.jpg"
 
-paginate:	5
+# paginate:	5
 
 # url: "http://myblog.***.***" # the base hostname & protocol for your site
 # baseurl: "http://www.hengchengzhang.com"
